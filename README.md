@@ -1,2 +1,1 @@
-# MS2.5
-Minecraft server 
+#MSP 2.5 - NUEVO PROYECTO SERVER PARA APRENDER 
